@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Pic/Chinanet01.png</file>
+        <file>Pic/Netcom01.png</file>
+        <file>Pic/Netcom02.png</file>
+        <file>Pic/Netcom03.png</file>
+        <file>Pic/Netcom04.png</file>
+        <file>Pic/Netcom05.png</file>
+        <file>Pic/Netcom06.png</file>
+        <file>logo.png</file>
+        <file>map.jpg</file>
+        <file>backpic.jpg</file>
+        <file>background.jpg</file>
+        <file>Image/Chinanet01.png</file>
+        <file>Image/Chinanet02.png</file>
+        <file>Image/Chinanet03.png</file>
+        <file>Image/Chinanet04.png</file>
+        <file>Image/Chinanet05.png</file>
+        <file>Image/Chinanet06.png</file>
+        <file>Image/Chinanet07.png</file>
+        <file>Image/Chinanet08.png</file>
+        <file>Image/Chinanet09.png</file>
+        <file>Image/Chinanet10.png</file>
+        <file>Image/Chinanet11.png</file>
+        <file>Image/Chinanet12.png</file>
+        <file>Image/Chinanet13.png</file>
+        <file>Image/Chinanet14.png</file>
+        <file>Image/Chinanet15.png</file>
+        <file>Image/Chinanet16.png</file>
+        <file>Image/Chinanet17.png</file>
+        <file>Image/Chinanet18.png</file>
+        <file>Image/edu.png</file>
+        <file>Image/Netcom01.png</file>
+        <file>Image/Netcom02.png</file>
+        <file>Image/Netcom03.png</file>
+        <file>Image/Netcom04.png</file>
+        <file>Image/Netcom05.png</file>
+        <file>Image/Netcom06.png</file>
+        <file>Image/other1.png</file>
+        <file>Image/other2.png</file>
+        <file>Image/other3.png</file>
+        <file>Image/test1.png</file>
+    </qresource>
+</RCC>
